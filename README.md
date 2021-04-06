@@ -33,7 +33,6 @@
 <p align="center">
   <img src="/V.png">
   </p>
-  
   <p align="center">
-  <img src="/logo_gp8.png">
+  <img width="300px" height"=300px" src="/logo_gp8.png">
   </p>
