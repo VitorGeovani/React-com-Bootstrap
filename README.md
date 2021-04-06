@@ -30,6 +30,8 @@
 
 <img align="center" alt="icon-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/pt-br/download)**
 
+## :information_source: Para acessar a versão de teste do nosso site, acesse https://react-com-bootstrap-teste.netlify.app/
+
 <p align="center">
   <img src="/V.png">
   </p>
