@@ -1,7 +1,8 @@
 # React com Bootstrap :open_file_folder:
 :bookmark_tabs: **Usando o React com Bootstrap**
 
-:information_source: **Nessa aplicação React foram usados alguns componentes do Bootstrap somente como teste, tais como:**
+
+### :information_source: **Nessa aplicação React foram usados alguns componentes do Bootstrap somente como teste, tais como:**
 
 :pushpin: **Header - Contendo links e opções**
 
